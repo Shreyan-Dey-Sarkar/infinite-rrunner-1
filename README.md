@@ -1,1 +1,1 @@
-# output link: https://shreyan-dey-sarkar.github.io/infinite-rrunner-1/
+output link: https://shreyan-dey-sarkar.github.io/infinite-runner-1/
